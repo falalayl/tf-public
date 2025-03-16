@@ -1,0 +1,19 @@
+.sg-header {
+  padding: 3% 0 3% 0;
+}
+
+@media only screen and (max-width: 768px) {
+  .study-questions-ins {
+    font-size: 18px!important;
+  }
+  
+  img.sg-header-image {
+    max-width: 40%!important;
+    margin: 0 auto 0 auto;
+  }
+  
+  .sg-survey .sg-mobile-optimized .sg-title {
+    text-align: center;
+  }
+  
+}
