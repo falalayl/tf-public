@@ -2,9 +2,29 @@
   padding: 3% 0 3% 0;
 }
 
+.sg-instructions {
+  line-height: 1.6;
+}
+
+.hideborder {
+  border-bottom: none;
+}
+
+.sg-max-characters {
+  display: none;
+}
+
+.display-text {
+  font-size: 18px;
+}
+
 @media only screen and (max-width: 768px) {
   .study-questions-ins {
     font-size: 18px!important;
+  }
+
+  .headline {
+    font-size: 20px;
   }
   
   img.sg-header-image {
@@ -15,5 +35,8 @@
   .sg-survey .sg-mobile-optimized .sg-title {
     text-align: center;
   }
-  
+
+  .display-text {
+    font-size: 16px;
+  }
 }
