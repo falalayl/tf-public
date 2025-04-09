@@ -1,7 +1,3 @@
-.sg-header {
-  padding: 3% 0 3% 0;
-}
-
 .sg-instructions {
   line-height: 1.6;
 }
@@ -23,6 +19,10 @@
 }
 
 @media only screen and (max-width: 768px) {
+  .sg-header {
+    padding: 3% 0 3% 0;
+  }
+  
   .study-questions-ins {
     font-size: 18px!important;
   }
