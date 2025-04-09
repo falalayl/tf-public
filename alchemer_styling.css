@@ -18,6 +18,10 @@
   font-size: 18px;
 }
 
+.headline {
+  font-size: 22px;
+}
+
 @media only screen and (max-width: 768px) {
   .study-questions-ins {
     font-size: 18px!important;
