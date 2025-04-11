@@ -1,3 +1,7 @@
+img.sg-header-image {
+  max-width: 15%!important;
+}
+
 .sg-instructions {
   line-height: 1.6;
 }
@@ -15,14 +19,14 @@
 }
 
 .headline {
-  font-size: 22px;
+  font-size: 24px;
 }
 
 @media only screen and (max-width: 768px) {
   .sg-header {
     padding: 3% 0 3% 0;
   }
-  
+
   .study-questions-ins {
     font-size: 18px!important;
   }
