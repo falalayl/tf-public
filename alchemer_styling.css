@@ -19,7 +19,7 @@ img.sg-header-image {
 }
 
 .headline {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -46,5 +46,9 @@ img.sg-header-image {
 
   .display-text {
     font-size: 16px;
+  }
+
+  .sg-survey .sg-mobile-optimized .sg-question .sg-question-options table[class^=sg-] th {
+    padding-top: 5%!important;
   }
 }
