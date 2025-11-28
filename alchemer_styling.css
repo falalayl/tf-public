@@ -22,6 +22,12 @@ img.sg-header-image {
   font-size: 22px;
 }
 
+.disp-ref-num {
+  background-color:#FFD472;
+  padding:1%;
+  border-radius: 25px;
+}
+
 @media only screen and (max-width: 768px) {
   .sg-header {
     padding: 3% 0 3% 0;
